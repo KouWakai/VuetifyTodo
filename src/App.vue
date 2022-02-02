@@ -18,7 +18,7 @@
 
     <v-main>
       <Todo />
-      test
+      test2
     </v-main>
   </v-app>
 </template>
